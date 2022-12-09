@@ -4,10 +4,12 @@ Fetch Rewards Take Home Assessment (Data Analyst)
 This is a submission for takehome assessment of Fetch Rewards for Data Analyst Role
 
 Dependencies:
+
 - Python, Jupyter, SQL Server
 - Python Packages Used: os, gzip, shutil, pyodbc, urllib, pandas, numpy, datetime, sqlalchemy, pymysql
 
-Execution Sequence:
+Steps to Execute the code:
+
 - Load the gzip files in the Data_gzip folder
 - Run the python notebook named : Fetch_Rewards_ERD_Table_Creation.ipynb
 - CSV files are generated and stored in Data_csv folder
